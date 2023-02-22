@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @passeronero7
 - 👀 I’m interested in AI, Data Science, ML, Cloud Engineering, DevSecOps
-- 🌱 I’m currently learning Data Science and Cloud Stack
+- 🌱 I’m currently learning and working on Data Science themes and DevOps stack
 
 Nice to meet you!
 
