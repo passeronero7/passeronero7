@@ -1,9 +1,8 @@
-👋 Hi, I'm @passeronero7 — Marco, Cloud & Data Engineer based in Italy.
+👋 Hi, I'm @passeronero7 — Cloud & Data Engineer Architecht based in Italy.
 
-- 🔭 Currently working on AWS-based multi-tenant data platforms and DevSecOps pipelines
-- 🌱 Deepening my skills in cloud infrastructure (AWS, GCP, Azure, OCI), IaC, and backend integrations
-- 👀 Interested in Cloud Engineering, DevSecOps, Data Engineering and AI
-- 🛠️ Daily stack: AWS (ECS, Lambda, RDS, Transfer Family), Python, Java/Spring Boot, Git
+- 🔭 Currently working on cloud-based multi-tenant hybrid data platforms, DevSecOps pipelines and 
+- 🌱 Deepening my skills in cloud infrastructure (AWS, GCP, Azure, OCI), IaC, DataScience and ML stacks
+- 👀 Interested in Cloud Engineering, DevSecOps, Data Science, ML and AI
 
 Nice to meet you!
 
